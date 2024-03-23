@@ -1,6 +1,6 @@
 name: React Build Action
 
-run-name: Building a react app
+run-name: Building A React Application
 
 on: [push]
 

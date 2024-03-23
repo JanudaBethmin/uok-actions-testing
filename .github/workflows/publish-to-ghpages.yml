@@ -1,6 +1,6 @@
 name: React Build Action
 
-run-name: Publishing it to gh pages
+run-name: Publishing Apllication to Github pages
 
 on: [push]
 

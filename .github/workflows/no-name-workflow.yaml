@@ -19,3 +19,6 @@ jobs:
       - run: npm install
       - run: npm run build
       - run: npm test
+
+      - name: Deploy react app to github pages
+        uses: JanudaBethmin/uok-actions-testing

@@ -21,4 +21,4 @@ jobs:
       - run: npm test
 
       - name: Deploy react app to github pages
-        uses: JanudaBethmin/uok-actions-testing
+        uses: tanwanimohit/deploy-react-to-ghpages@v1.0.2
